@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go,Swift,Burp**
 
-- 👯 I’m looking to collaborate on [Işık Siber](https://instagram.com/isiksiber)
+- 👯 My personal website for testing my web applications and AWS operations [Here](https://atakilic.com/)
 
 - 📫 How to reach me **atakilic@ieee.org**
 
